@@ -1,6 +1,7 @@
 # Eco-Explore-Api
 Eco Explore Api an exploration and travel Service 
-
+#Mobile front end version available at: https://github.com/JosepHyv/Eco-Explore-App
+#Desktop front end version available at: https://github.com/Zinedinne/ecoExploreDesktop
 
 # Installation
 
